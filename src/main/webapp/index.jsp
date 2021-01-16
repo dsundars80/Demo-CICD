@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Welcome DevOps Champs !!</h2>
-  h2>One of My Fav Batch :) !!</h2>
+ <h2>One of My Fav Batch :) !!</h2>
 <form >
   <div class="container">
     <label for="uname"><b>Username</b></label>
